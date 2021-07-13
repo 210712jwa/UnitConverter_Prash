@@ -9,7 +9,8 @@ public class UnitConverter{
 		Scanner s = new Scanner(System.in);
 		
 		boolean loopMenu = true;
-	    while(true){
+	    
+		while(true){
 		//Main Menu
 		System.out.println("Please select an option!");
 		System.out.println("-------------------------\n");
