@@ -108,7 +108,7 @@ public class UnitConverter{
 	public static void distanceMenuChoice(){
 		Scanner scan = new Scanner(System.in);
 		
-		boolean loopDistanceMenu = true;\
+		boolean loopDistanceMenu = true;
 			//Distance Menu
 			while(true){
 			System.out.println("What do you want to convert?");
